@@ -10,9 +10,9 @@
 
 - 👀 I’m looking forward to **make my mark in Data Analytics Field**
 
-- 🔭 I’m currently working on **Recommendation System**
+- 🔭 I’m currently working on **Wise Online Stores Pvt. Ltd as a Data Scientist**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Neural Network**
 
 - 📫 Connect me on **roshan27july@gmail.com**
 
