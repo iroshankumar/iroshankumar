@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Deep Neural Network**
 
-- 📫 Connect me on **roshan27july@gmail.com**
+- 📫 Connect me on **roshankumarsinghwork@gmail.com**
 
 
 
@@ -54,7 +54,7 @@ website:-https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 Connect me on **roshan27july@gmail.com**
+- 📫 Connect me on **roshankumarsinghwork@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
